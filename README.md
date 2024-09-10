@@ -12,7 +12,7 @@ This project implements a sentiment analysis system on IMDb movie reviews using 
 
 This sentiment analysis project aims to classify movie reviews from IMDb as either positive or negative using a neural network, specifically an LSTM. The project demonstrates the application of deep learning in natural language processing (NLP) and provides a web-based interface to interact with the model.
 
-##Motivation
+## Motivation
 
 Sentiment analysis is a crucial task in natural language processing, widely used in areas like market research, customer feedback, and social media monitoring. IMDb reviews are an excellent resource for understanding public sentiment towards movies. By using an LSTM model, this project can capture the sequential nature of text data, making it highly effective for sentiment prediction.
 
