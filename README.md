@@ -1,7 +1,7 @@
 
 
 
-#Sentiment Analysis on IMDb Reviews Using LSTM
+# Sentiment Analysis on IMDb Reviews Using LSTM
 
 ![Screenshot 2024-07-13 142400](https://github.com/user-attachments/assets/c5d62bb4-ca14-4eb0-9d21-bab55b51ab5b)
 
