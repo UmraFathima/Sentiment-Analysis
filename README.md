@@ -56,7 +56,7 @@ python manage.py runserver
 
 Visit `http://127.0.0.1:8000` in your web browser.
 
-### Inputting Reviews
+## Inputting Reviews
 
 - Enter a movie review in the text box provided.
 - Click the "Analyze" button.
