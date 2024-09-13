@@ -74,7 +74,7 @@ Visit `http://127.0.0.1:8000` in your web browser.
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
-### Additional Sections Explained
+## Additional Sections Explained
 
 - **Motivation:** Explains the reason behind choosing this project and its importance in the field of NLP.
 - **Architecture:** Provides an overview of the different components that make up the project.
