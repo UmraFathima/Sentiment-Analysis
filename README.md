@@ -33,7 +33,7 @@ The project consists of the following components:
 - **Scalable:** Easily extendable to other NLP tasks with minimal modifications.
 
 
-### Prerequisites
+## Prerequisites
 
 Ensure you have the following installed:
 
