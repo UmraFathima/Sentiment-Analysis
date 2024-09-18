@@ -16,7 +16,7 @@ This sentiment analysis project aims to classify movie reviews from IMDb as eith
 
 Sentiment analysis is a crucial task in natural language processing, widely used in areas like market research, customer feedback, and social media monitoring. IMDb reviews are an excellent resource for understanding public sentiment towards movies. By using an LSTM model, this project can capture the sequential nature of text data, making it highly effective for sentiment prediction.
 
-### Architecture
+## Architecture
 
 The project consists of the following components:
 
